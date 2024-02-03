@@ -22,14 +22,10 @@
       <img align="left" width=390 src="https://streak-stats.demolab.com/?user=kdwils&theme=dracula&border=FF79C6" alt="kdwils" />
     </a>
     <a href="https://github.com/kdwils/github-readme-stats" title="Go to Source">
-      <img align="center" width=390 src="https://github-readme-stats.vercel.app/api?username=kdwils&show_icons=true&theme=dracula&border_color=FF79C6&hide_border=false" />
-    </a>
-        <a href="https://github.com/kdwils/github-readme-stats" title="Go to Source">
-      <img align="right" width=390 src="https://github-readme-stats.vercel.app/api/top-langs/?username=kdwils&layout=donut&hide=html&theme=dracula&border_color=FF79C6" />
+      <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=kdwils&show_icons=true&theme=dracula&border_color=FF79C6&hide_border=false" />
     </a>
   </div>
 </p>
-
 
 <!-- <p align="left">
 <img src="https://github-readme-stats.vercel.app/api?username=kdwils&show_icons=true&theme=dracula" alt="kdwils" style="margin-right: 10px;" />
