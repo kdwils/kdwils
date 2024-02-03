@@ -15,10 +15,10 @@
 <h2 align="left">My Stats</h2>
 <p align=center>
   <div align=center>
-    <a href="https://github.com/kdwils/github-readme-streak-stats" title="Go to Source">
+    <a href="https://github.com/anuraghazra/github-readme-streak-stats" title="Go to Source">
       <img align="left" width=390 height=150 src="https://streak-stats.demolab.com/?user=kdwils&theme=dracula&border=FF79C6" alt="kdwils" />
     </a>
-    <a href="https://github.com/kdwils/github-readme-stats" title="Go to Source">
+    <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
       <img align="right" width=390 height=150 src="https://github-readme-stats.vercel.app/api?username=kdwils&show_icons=true&theme=dracula&border_color=FF79C6&hide_border=false" />
     </a>
   </div>
