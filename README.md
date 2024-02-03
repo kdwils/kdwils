@@ -19,10 +19,10 @@
 <p align=center>
   <div align=center>
     <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
-      <img align="left" style="margin-bottom: 15px;" width=390 src="https://streak-stats.demolab.com/?user=kdwils&theme=dracula&border=FF79C6" alt="kdwils" />
+      <img align="left" width=390 src="https://streak-stats.demolab.com/?user=kdwils&theme=dracula&border=FF79C6" alt="kdwils" />
     </a>
     <a href="https://github.com/kdwils/github-readme-stats" title="Go to Source">
-      <img align="right" style="margin-bottom: 15px;" width=390 src="https://github-readme-stats.vercel.app/api?username=kdwils&show_icons=true&theme=dracula&border_color=FF79C6&hide_border=false" />
+      <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=kdwils&show_icons=true&theme=dracula&border_color=FF79C6&hide_border=false" />
     </a>
   </div>
   <br>
