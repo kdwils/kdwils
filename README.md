@@ -28,7 +28,7 @@
   <br>
   <div align=center>
     <a href="https://github.com/kdwils/github-readme-stats" title="Go to Source">
-      <img align="left" width=390 src="https://github-readme-stats.vercel.app/api/top-langs/?username=kdwils&layout=compact&hide=html&theme=dracula&border_color=FF79C6" />
+      <img align="left" width=390 style="margin-top: 20px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kdwils&layout=donut&hide=html&theme=dracula&border_color=FF79C6" />
     </a>
   </div>
 </p>
