@@ -1,7 +1,7 @@
 # Hi, I'm Kyle 👋
 
 ### About Me
-* 💻 Software Engineer  
+* 💻 Software engineer  
 * 🚀 [Homelab](https://github.com/kdwils/homelab) tinkerer
 * 📦 Kubernetes enjoyer
 * 🎗️ Cancer survivor
