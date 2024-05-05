@@ -4,7 +4,6 @@
 * 💻 Software engineer  
 * 🚀 [Homelab](https://github.com/kdwils/homelab) tinkerer
 * 📦 Kubernetes enjoyer
-* 🎗️ Cancer survivor
 
 ## My Links
 <p align="left" >
